@@ -1,0 +1,179 @@
+[
+    {
+        "question": "請問我們舉辦新生茶會的日期是？",
+        "options": [
+            {
+                "text": "2019/9/17",
+                "isAnswer": true
+            },
+            {
+                "text": "2019/9/10"
+            },
+            {
+                "text": "2019/10/10"
+            },
+            {
+                "text": "3019/9/17"
+            }
+        ]
+    },
+    {
+        "question": "請問 1 KB 相當於多少 Bytes 呢？",
+        "options": [
+            {
+                "text": "1000"
+            },
+            {
+                "text": "1023"
+            },
+            {
+                "text": "1024",
+                "isAnswer": true
+            },
+            {
+                "text": "2048"
+            }
+        ]
+    },
+    {
+        "question": "請問只要你繳了就能擁有各種學習資源的社團社費金額是多少台幣呢？",
+        "options": [
+            {
+                "text": "公道價 81000"
+            },
+            {
+                "text": "500",
+                "isAnswer": true
+            },
+            {
+                "text": "999"
+            },
+            {
+                "text": "馬麻 10 塊"
+            }
+        ]
+    },
+    {
+        "question": "請問目前世界上規模最大的搜尋引擎是什麼呢？",
+        "options": [
+            {
+                "text": "Bing"
+            },
+            {
+                "text": "Google",
+                "isAnswer": true
+            },
+            {
+                "text": "Yahoo"
+            },
+            {
+                "text": "hao123"
+            }
+        ]
+    },
+    {
+        "question": "請問目前手機有哪兩大主流作業系統呢？",
+        "options": [
+            {
+                "text": "Android"
+            },
+            {
+                "text": "iOS"
+            },
+            {
+                "text": "兩者皆是",
+                "isAnswer": true
+            },
+            {
+                "text": "兩者皆否"
+            }
+        ]
+    },
+    {
+        "question": "請問 AI 的中文翻譯是？",
+        "options": [
+            {
+                "text": "機器學習"
+            },
+            {
+                "text": "人工智慧",
+                "isAnswer": true
+            },
+            {
+                "text": "工人智慧"
+            },
+            {
+                "text": "神經網路"
+            }
+        ]
+    },
+    {
+        "question": "請問史上首位程式設計師是男性還是女性？",
+        "options": [
+            {
+                "text": "女性",
+                "isAnswer": true
+            },
+            {
+                "text": "男性"
+            }
+        ]
+    },
+    {
+        "question": "請問我們的社辦在中正館幾樓？",
+        "options": [
+            {
+                "text": "不在中正館"
+            },
+            {
+                "text": "3 樓",
+                "isAnswer": true
+            },
+            {
+                "text": "5 樓"
+            },
+            {
+                "text": "B1"
+            }
+        ]
+    },
+    {
+        "question": "請問 C 語言的前身是什麼程式語言？",
+        "options": [
+            {
+                "text": "B 語言",
+                "isAnswer": true
+            },
+            {
+                "text": "Visual Basic"
+            },
+            {
+                "text": "組合語言"
+            },
+            {
+                "text": "C--"
+            }
+        ]
+    },
+    {
+        "question": "請問社團博覽會晚會的日期是？",
+        "options": [
+            {
+                "text": "2019/09/12",
+                "isAnswer": true
+            },
+            {
+                "text": "2019/09/12",
+                "isAnswer": true
+            },
+            {
+                "text": "2019/09/12",
+                "isAnswer": true
+            },
+            {
+                "text": "2019/09/12",
+                "isAnswer": true
+            }
+        ]
+    }
+]
